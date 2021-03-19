@@ -12,7 +12,7 @@ django-imagekit==4.0.2
 django-js-asset==1.1.0
 django-mptt==0.9.1
 django-rest-elasticsearch==0.4.1
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 elasticsearch==6.3.1
 elasticsearch-dsl==6.3.1
