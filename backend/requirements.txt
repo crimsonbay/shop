@@ -22,7 +22,7 @@ kombu==4.2.2.post1
 pilkit==2.0
 Pillow==5.4.1
 psycopg2==2.7.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytest-runner==4.2
 python-dateutil==2.7.5
 pytz==2018.9
